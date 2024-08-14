@@ -14,7 +14,7 @@ This Python-based Clipboard Manager allows you to store the last 9 copied items 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/clipboard-manager.git
+   git clone https://github.com/ilyeshr2/clipboard-manager.git
    cd clipboard-manager
    ```
 
@@ -92,7 +92,7 @@ Feel free to fork this repository and submit pull requests. Any contributions th
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
