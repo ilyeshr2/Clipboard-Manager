@@ -18,17 +18,25 @@ This Python-based Clipboard Manager allows you to store the last 9 copied items 
    cd clipboard-manager
    ```
 
-2. **Install the Required Libraries**:
+2. Set up a virtual environment:
+
+    ```bash
+    py -3 -m venv .venv
+    .venv\Scripts\activate
+    ```
+
+    
+3. **Install the Required Libraries**:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Program**:
+4. **Run the Program**:
    ```bash
    python clipboard_manager.py
    ```
 
-4. **Optional: Set Up for Automatic Startup**:
+5. **Optional: Set Up for Automatic Startup**:
    Follow the instructions below to set the program to run automatically when you start your system.
 
 ## Automatic Startup Setup
