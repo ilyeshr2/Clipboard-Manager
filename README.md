@@ -4,7 +4,8 @@
 This Python-based Clipboard Manager allows you to store the last 9 copied items and paste them using custom shortcuts like `Ctrl+L+1` for the last copy, `Ctrl+L+2` for the second last copy, and so on up to `Ctrl+L+9`.
 
 
-![screen-capture7-ezgif com-crop](https://github.com/user-attachments/assets/a83aa729-bb2d-4be2-8eb3-41114b001ef9)
+![screen-capture71-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed9ddadb-6400-4420-a71c-72a1b9b33fa7)
+
 
 
 
